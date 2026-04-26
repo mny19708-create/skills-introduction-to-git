@@ -21,7 +21,7 @@ const ERROR_PATTERNS = [
     ],
   },
   {
-    name: "Off By One",
+  name: "Off By One",
     pattern: [
       [0, 0, 1, 0, 0],
       [0, 1, 1, 0, 0],
